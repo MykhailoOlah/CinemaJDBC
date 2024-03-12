@@ -1,0 +1,33 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ç¦úàİ1
+g	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È¦úàİ1
+g	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È¦úàİ1
+g	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È¦úàİ1
+g	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8È¦úàİ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á˜ıùÿÿÿÿ8ê¦úàİ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ü¢”ä8ë¦úàİ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Á˜ï»üÿÿÿÿ8ë¦úàİ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û™Ü•şÿÿÿÿ8Æ†ûàİ1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—ì¥ÿÿÿÿÿ8Å‚üàİ1
+n
+java:S1845"QRename field "getAll" to prevent any misunderstanding/clash with method "getAll".(ü¢”ä8ì¦úàİ1
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(á˜ıùÿÿÿÿ8ÊïÆïâ1
+N
+java:S5664",Use only spaces or only tabs for indentation(á˜ıùÿÿÿÿ8ËïÆïâ1
+W
+java:S2479":Remove the non-escaped \u0009 character from this literal.(ü¢”ä8ÍïÆïâ1
+I
+java:S5664",Use only spaces or only tabs for indentation(ü¢”ä8ÍïÆïâ1
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(Á˜ï»üÿÿÿÿ8ÍïÆïâ1
+N
+java:S5664",Use only spaces or only tabs for indentation(Á˜ï»üÿÿÿÿ8ÎïÆïâ1
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(û™Ü•şÿÿÿÿ8ÎïÆïâ1
+N
+java:S5664",Use only spaces or only tabs for indentation(û™Ü•şÿÿÿÿ8ÎïÆïâ1
+\
+java:S2479":Remove the non-escaped \u0009 character from this literal.(—ì¥ÿÿÿÿÿ8ÏïÆïâ1
+N
+java:S5664",Use only spaces or only tabs for indentation(—ì¥ÿÿÿÿÿ8ÏïÆïâ1
